@@ -12,9 +12,9 @@ setup(
     version="0.3",
     description="Python package implementing TOPSIS ",
     url="https://github.com/dishu5312/Topsis.git",
-    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.3.tar.gz",
-    author="Jasmehak Kaur",
-    author_email="jkaur2_be18@thapar.edu",
+    download_url="https://github.com/dishu5312/Topsis/archive/master.zip",
+    author="Divyanshu Srivastava",
+    author_email="dsrivastava_be18@thapar.edu",
     license="MIT",
     keywords = ['TOPSIS','IMPLEMENTATION','PYTHON'],
     classifiers=[
