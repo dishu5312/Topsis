@@ -12,7 +12,7 @@ setup(
     version="0.3",
     description="Python package implementing TOPSIS ",
     url="https://github.com/dishu5312/Topsis.git",
-    download_url="https://github.com/dishu5312/Topsis/archive/master.zip",
+    download_url="https://github.com/dishu5312/Topsis/archive/v_01.tar.gz",
     author="Divyanshu Srivastava",
     author_email="dsrivastava_be18@thapar.edu",
     license="MIT",
@@ -25,8 +25,8 @@ setup(
     include_package_data=True,
     install_requires=[
                       'numpy',
-                      'pandas'
-     
+                      'pandas',
+                      'scrapeasy'
     
         ],
 
