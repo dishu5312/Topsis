@@ -13,7 +13,7 @@ solution.
 ## INSTALLATION
 
 ```
->> pip install TOPSIS_Divyanshu_101803542
+>> pip install TOPSIS-Divyanshu-101803542==0.3
 ```
 
 ### USAGE

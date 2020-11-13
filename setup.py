@@ -7,8 +7,8 @@ def readme():
 
 
 setup(
-    name="TOPSIS-Divyanshu-101803542",
-    packages=["TOPSIS-Divyanshu-101803542"],
+    name="TOPSIS_Divyanshu_101803542",
+    packages=["TOPSIS_Divyanshu_101803542"],
     version="0.3",
     description="Python package implementing TOPSIS ",
     url="https://github.com/dishu5312/Topsis.git",
